@@ -18,7 +18,7 @@ npm run build or yarn build
 ## 结构
 
 ```
-|-- C端小程序
+|-- taro_template
     |-- .editorconfig
     |-- .eslintignore // eslint配置忽略某些文件不校验（当使用插件时代码过于冗长，不适合修改）
     |-- .eslintrc.js // eslint配置
